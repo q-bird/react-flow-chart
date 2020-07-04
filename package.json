@@ -1,5 +1,5 @@
 {
-  "name": "@mrblenny/react-flow-chart",
+  "name": "@q-bird/react-flow-chart",
   "version": "0.0.14",
   "description": "A flexible, stateless flow chart library for react.",
   "main": "src/index.js",
